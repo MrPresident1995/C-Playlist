@@ -5,9 +5,6 @@ Le informazioni sulle canzoni proposte sono memorizzate in un file testuale (bra
 - seguono A blocchi di righe, uno per ogni i-esimo amico, tali per cui:
 
   - sulla prima riga del blocco appare il numero Ci di canzoni proposte dall’amico
-  - seguono Ci stringhe, in ragione di una per riga, riportanti i titoli dei brani proposti
-  
+  - seguono Ci stringhe, in ragione di una per riga, riportanti i titoli dei brani proposti 
 
-
-
-        Nota: Si assuma che tutti i titoli delle canzoni non contengano spazi e siano lunghi al più 255 caratteri.
+Nota: Si assuma che tutti i titoli delle canzoni non contengano spazi e siano lunghi al più 255 caratteri.
