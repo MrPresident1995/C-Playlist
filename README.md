@@ -8,4 +8,4 @@ Le informazioni sulle canzoni proposte sono memorizzate in un file testuale (bra
   - seguono Ci stringhe, in ragione di una per riga, riportanti i titoli dei brani proposti
 
 
-      Nota: Si assuma che tutti i titoli delle canzoni non contengano spazi e siano lunghi al più 255 caratteri.
+        Nota: Si assuma che tutti i titoli delle canzoni non contengano spazi e siano lunghi al più 255 caratteri.
