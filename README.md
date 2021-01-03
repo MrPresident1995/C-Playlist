@@ -3,7 +3,6 @@ Tutte le canzoni sono distinte.
 Le informazioni sulle canzoni proposte sono memorizzate in un file testuale (brani.txt) organizzato come segue:
 - sulla prima riga appare il numero A di amici
 - seguono A blocchi di righe, uno per ogni i-esimo amico, tali per cui:
-
   - sulla prima riga del blocco appare il numero Ci di canzoni proposte dall’amico
   - seguono Ci stringhe, in ragione di una per riga, riportanti i titoli dei brani proposti 
 
